@@ -9,11 +9,11 @@ To run this project, you should have the following installed:
 5. Metamask extension (on whaterver browser you are using)
 6. Ganache
 
-After above all dependencies are installed, please follow these steps:
-STEP 1: Open Ganache
-STEP 2: run on terminal: truffle migrate --reset
-STEP 3: run on terminal: cd client
-STEP 4: run on terminal: npm install
-STEP 5: run on terminal: npm run start
+<strong> After above all dependencies are installed, please follow these steps: </strong><br>
+<i>STEP 1:</i> Open Ganache <br>
+<i>STEP 2:</i>  run on terminal: truffle migrate --reset <br>
+<i>STEP 3:</i>  run on terminal: cd client <br>
+<i>STEP 4:</i>  run on terminal: npm install <br>
+<i>STEP 5:</i>  run on terminal: npm run start <br>
 
 Please feel free to create issues, and PRs.
